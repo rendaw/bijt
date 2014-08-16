@@ -1,0 +1,16 @@
+{
+	"delimeter": "%%",
+	"transformations": [
+		{
+			"from": {
+				"hole": {
+					"dog": "%%dogprops%%"
+				}
+			},
+			"to": {
+				"doginhole": "%%dogprops%%"
+			}
+		}
+	]
+}
+

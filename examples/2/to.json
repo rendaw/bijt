@@ -1,0 +1,33 @@
+{
+	"home": [
+		[
+			"closet", 
+			[
+				"one egg",
+				"two slices of toast",
+				"marmalade",
+				"milk",
+				"vodka",
+				"yogurt",
+				"frozen blueberries",
+				"sausage"
+			]
+		],
+		[
+			"todo", [
+				[
+					"dispose", 
+					[
+						"Mark"
+					]
+				],
+				[
+					"hide",
+					[
+						"cash"
+					]
+				]
+			]
+		]
+	]
+}

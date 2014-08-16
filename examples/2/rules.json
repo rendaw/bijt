@@ -1,0 +1,52 @@
+{
+	"delimeter": "%%",
+	"transformations": [
+		{
+			"from": [
+				"closet", 
+				[
+					"clothes",
+					"coathangers",
+					"bed",
+					{
+						"source code?": false
+					},
+					"air",
+					"fire alarm",
+					[
+						"json",
+						{
+							"key": "value"
+						}
+					],
+					"%%1:cash%%",
+					"shovel",
+					"large plastic bags",
+					[
+						"freezer",
+						[
+							"%%1:mystery_item%%"
+						]
+					]
+				]
+			],
+			"to": [
+				"todo", 
+				[
+					[
+						"dispose",
+						[
+							"%%1:mystery_item%%"
+						]
+					],
+					[
+						"hide", 
+						[
+							"%%1:cash%%"
+						]
+					]
+				]
+			]
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"home": [
+		[
+			"closet", 
+			[
+				"one egg",
+				"two slices of toast",
+				"marmalade",
+				"milk",
+				"vodka",
+				"yogurt",
+				"frozen blueberries",
+				"sausage"
+			]
+		],
+		[
+			"closet", 
+			[
+				"clothes",
+				"coathangers",
+				"bed",
+				{
+					"source code?": false
+				},
+				"air",
+				"fire alarm",
+				[ 
+					"json", 
+					{
+						"key": "value"
+					}
+				],
+				"cash",
+				"shovel",
+				"large plastic bags",
+				[
+					"freezer",
+					[
+						"Mark"
+					]
+				]
+			]
+		]
+	]
+}
